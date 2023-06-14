@@ -1,0 +1,9 @@
+[submodule "DCLNet"]
+	path = DCLNet
+	url = https://github.com/SakuraRiven/DCLNet.git
+[submodule "DB"]
+	path = DB
+	url = https://github.com/MhLiao/DB.git
+[submodule "LANMS"]
+	path = LANMS
+	url = https://github.com/SakuraRiven/LANMS.git
